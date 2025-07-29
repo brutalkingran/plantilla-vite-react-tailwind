@@ -8,6 +8,7 @@ Esta plantilla permite inicializar fácilmente proyectos de Vite, utilizando Rea
 - Esta instalación rápida clonará la plantilla, inicializará git y se inicializará en VScode
 - Cualquier paso que no funcione en tu equipo o necesites cambiar se puede modificar en cualquier editor de texto.
 - Puedes descargar las instalaciones rápidas [aquí](https://github.com/brutalkingran/plantilla-vite-react-tailwind/releases/tag/v1.0.0).
+- IMPORTANTE: no coloques nombres con espacios.
 
 ## Instalación:
 
