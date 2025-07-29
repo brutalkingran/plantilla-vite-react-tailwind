@@ -2,7 +2,7 @@
 set /p nombre_proyecto=Nombre del proyecto:
 
 :: Clona template
-npx degit brutalkingran/plantilla-vite-react-tailwind %nombre_proyecto%
+call npx degit brutalkingran/plantilla-vite-react-tailwind %nombre_proyecto%
 cd %nombre_proyecto%
 call npm install
 
